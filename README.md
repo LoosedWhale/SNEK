@@ -1,9 +1,23 @@
 # SNEK
-A snake game made to learn OOP in python 
+## Describtion 
 
-*Not really* there is 3 versions of this snake game that I have called Snek
-ClassSnek.py being the latest version.
-SnekShared is the version that is being worked on by my classmates and myself.
-Note that the code will be updated for grapics and menus soon.
+This is a snake game that I call **SNEK**. \
+SNEK was created as a fun side project which ended up getting me into OOP.
 
-The game is using pygame but I could not figure out how to share that file due to it being to large.
+ClassSnek.py is the latest version. \
+There will be menues added to that version. \
+That includes rewriteing of the program so that is uses OOP in a better way. 
+
+## How to install & use 
+> python -m pygame venv venv \
+> venv\Scripts\Activate.ps1 \
+> pip install pygame \
+> python .\ClassSnek.py 
+
+> Alternativly if you have pygame installed \
+> Simply run it as normal  
+
+### Note
+
+###### The code will be updated for grapics and menus soon™️.
+###### When the game is done it will be easier to run and it will include major upgrades from its current form.
