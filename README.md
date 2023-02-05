@@ -19,5 +19,5 @@ That includes rewriteing of the program so that is uses OOP in a better way.
 
 ### Note
 
-###### The code will be updated for grapics and menus soon™️.
+###### The code will be updated for grapics and menus soon~ish.
 ###### When the game is done it will be easier to run and it will include major upgrades from its current form.
